@@ -1,0 +1,14 @@
+/home/aluno/Documentos/GitHub/Livrarias/bin/Debug/net8.0/Livrarias
+/home/aluno/Documentos/GitHub/Livrarias/bin/Debug/net8.0/Livrarias.deps.json
+/home/aluno/Documentos/GitHub/Livrarias/bin/Debug/net8.0/Livrarias.runtimeconfig.json
+/home/aluno/Documentos/GitHub/Livrarias/bin/Debug/net8.0/Livrarias.dll
+/home/aluno/Documentos/GitHub/Livrarias/bin/Debug/net8.0/Livrarias.pdb
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.AssemblyInfoInputs.cache
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.AssemblyInfo.cs
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.dll
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/refint/Livrarias.dll
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.pdb
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/Livrarias.genruntimeconfig.cache
+/home/aluno/Documentos/GitHub/Livrarias/obj/Debug/net8.0/ref/Livrarias.dll
